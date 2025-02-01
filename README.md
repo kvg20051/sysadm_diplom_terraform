@@ -1,0 +1,1 @@
+# sysadm_diplom_terraform
